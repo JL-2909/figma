@@ -1,0 +1,1743 @@
+
+body {
+    background:black; 
+  
+      
+}
+
+.padre{
+    width: 1340px;
+    height: 1000px;
+    background-image: url(../imagen/logo36.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.hijo1 {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 60px; 
+    padding-right: 50px;  
+}
+
+.father{
+    display: none;
+
+}
+
+.hijo1-2{
+    display: flex;
+    gap: 20px;
+    padding-top: 14px;
+  
+    
+    }
+
+    .jim{
+        width: 100px;
+        text-decoration: none;
+        color: white;
+        display: block;
+       
+    }
+    
+    .a1{
+        color: blue;
+        text-decoration: none;
+        display: block;
+    }
+
+    .hijo1-3{
+        display: flex;
+        padding-left: 200px;
+      
+     
+      
+       
+        
+    }
+    
+    .lj{
+        padding-top: 14px;
+        width: 70px;
+        text-decoration: none;
+        color: white;
+        display: block;
+    }
+    
+    .jl {
+        border: 2px solid green ;
+        border-radius: 30px;
+        width: 140px;
+        height: 40px;
+        text-align: center;
+        padding-top: 10px;
+        text-decoration: none;
+        color: white;
+        display: block;
+    }
+     
+    .hijo2{
+        color: white;
+        display: flex;  
+    }
+
+    .jaj{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-bottom: 50px;
+       
+    }
+    
+    
+
+    .hijo2-1{
+        color: blue;
+        font-family: century gothic;
+        font-size: 12px;
+        padding-left: 170px; 
+        padding-top: 300px;
+    }
+
+    .hijo2-2{
+        font-family: century gothic;
+        font-size: 24px;
+        width: 440px;
+        padding-left: 180px;
+           
+    }
+
+    .hijo2-3{
+        font-family: century gothic;
+        font-size: 16px;
+        width: 525px;
+        padding-left: 165px;
+    }
+
+
+    .ja{
+        padding-left: 160px;
+        padding-top: 50px;
+    }
+    
+    
+    .hijo2-4{
+        border: 1px solid #22a75d;
+        border-radius: 25px;
+        width: 137px;
+        height: 38px;
+        text-align: center;
+        padding-top: 15px;
+        padding-left: 20px;
+        background: #22a75d ;
+       
+           
+    }
+    
+
+    .sobrino{
+        width: 650px;
+        padding-top: 280px; 
+        display: block;      
+    } 
+
+    .sobrino1{
+        display: none;
+    }
+
+    .loco {
+        display: flex;
+        padding-top: 150px;
+    }
+
+    .hijo3{
+        color: white;
+        border: 1px solid  white;
+        border-radius: 25px;
+        width: 500px;
+    }
+    
+    .papa{
+        padding-left: 160px;
+       
+    }
+
+    .lz{
+        padding-top: 60px;
+        padding-left: 50px;
+        
+    }
+    
+    .hijo3-1{
+        border: 1px solid gray;
+        border-radius: 100px 100px 100px 100px;
+        width: 60px;
+        height: 40px;
+        padding-top: 20px;
+        text-align: center;
+        background: #22a75d;
+    }
+    
+    .hijo3-2{
+     font-family: century gothic;
+     font-size: 25px;
+     width: 265px;
+     padding-left: 50px;
+    }
+    
+    .tex{
+        color: #22a75d;
+        
+    }
+    
+    .hijo3-3{
+        font-family: century gothic;
+        font-size: 10px;
+        width: 400px;
+        padding-left: 50px;
+    }
+    
+    .hijo3-4{
+        padding-top: 70px;
+        padding-bottom: 70px;
+      
+    }
+    
+    .el{
+        color: #22a75d;
+        font-family: century gothic;
+        font-size: 16px;
+        padding-left: 50px;
+     
+    }
+    
+    
+    .ima{
+        width: 13px;
+    
+    }
+
+    .hijo9{
+    color: white;
+    border: 1px solid  white;
+    border-radius: 25px;
+    width: 500px;
+    
+    }
+
+    .mama{
+    padding-left: 50px;
+    padding-top: 180px;
+   
+    
+}
+
+.zl{
+    padding-top: 60px;
+    padding-left: 50px;
+}
+
+.hijo9-1{
+    border: 1px solid gray;
+    border-radius: 100px 100px 100px 100px;
+    width: 60px;
+    height: 40px;
+    padding-top: 20px;
+    padding-left: 5px;
+    text-align: center;
+    background: #2278d4;
+  
+    }
+
+    .hijo9-2{
+        font-family: century gothic;
+        font-size: 25px;
+        width: 265px;
+        padding-left: 50px;
+    }
+
+    .tes{
+        color: #2278d4;
+        
+    }
+
+    .hijo9-3{
+        font-family: century gothic;
+        font-size: 10px;
+        width: 400px;
+        padding-left: 50px;
+    }
+
+    
+.hijo9-4{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  
+}
+
+.le{
+    color: #2278d4;
+    font-family: century gothic;
+    font-size: 16px;
+    padding-left: 50px;
+ 
+}
+.img{
+    width: 13px;
+    
+}
+
+
+.hijo4{
+    display: flex;
+    padding-top: 180px;
+   
+}
+
+
+.hijito1{
+    width: 662px;
+    display: block;
+}
+
+.hijito1-2{
+    display: none;
+}
+
+.dj{
+    width: 677px;
+}
+
+.hijito{
+    color:black;
+    background: white;
+    border: 1px solid white;
+    border-radius: 300px 0px 0px 0px ;
+    height: 399px;
+    padding-top: 150px;
+    
+}
+
+.hijo4-1{
+    font-family: century gothic;
+    font-size: 22px;
+    padding-left: 100px;
+    text-align: center;
+    width: 500px;
+
+
+}
+
+.hijo4-2{
+    font-family: century gothic;
+    font-size: 9px;
+    padding-left: 140px;
+    text-align: center;
+    width: 420px;
+  
+  
+  
+   
+}
+
+
+.hijo4-3{
+    font-family: century gothic;
+    font-size: 14px;
+    padding-left: 165px;
+    width: 485px;
+    
+   
+}
+
+
+
+.dt{
+    display: flex;
+    padding-top: 150px;
+    justify-content: center;
+    gap: 150px;
+    
+}
+
+.ya{
+    display: flex;
+
+   
+}
+
+.hr{
+    color: white;
+    padding-top: 50px;
+}
+
+
+
+.ye{
+    display: flex;
+}
+
+.mz {
+    color: white;
+    padding-top: 50px;
+    
+}
+
+
+
+.yi{
+    display: flex;
+}
+
+.ch{
+    color: white;
+    padding-top: 50px;
+}
+
+
+.yo{
+    display: flex;
+}
+
+.hc{
+    color: white;
+    padding-top: 50px;
+}
+
+
+
+
+.hijo6{
+    display: flex; 
+}
+
+
+
+
+.cel1{
+    color: white;
+    display: flex;
+    font-family: century gothic;
+    width: 120px;
+    font-size: 12px;
+    padding-left: 130px;
+}
+
+.num1{
+    color: #22a75d;
+    padding-right: 30px;
+}
+
+
+.cel2{
+    color: white;
+    display: flex;
+    font-family: century gothic;
+    width: 200px;
+    font-size: 10px;
+    padding-left: 130px;
+}
+
+.num2{
+    color: #22a75d;
+    padding-right: 30px;
+}
+
+
+
+.adn1{
+    color: white;
+    display: flex;
+    width: 200px;
+    font-size: 12px;
+    padding-left: 120px;
+   
+}
+
+.nume1{
+    color: #2278d4;
+    padding-right: 40px;
+}
+
+
+.adn2{
+    color: white;
+    display: flex;
+    width: 250px;
+    font-size: 12px;
+    padding-left: 120px;
+}
+
+.adn3{
+    color: white;
+    display: flex;
+    width: 160px;
+    font-size: 12px;
+    padding-left: 120px;
+}
+
+.adn4{
+    color: white;
+    display: flex;
+    width: 250px;
+    font-size: 12px;
+    padding-left: 120px;
+}
+
+.adn5{
+    color: white;
+    display: flex;
+    width: 250px;
+    font-size: 12px;
+    padding-left: 120px;
+}
+
+
+.lib{
+    color: #ffd100;
+    padding-right: 30px;
+}
+
+.arn1{
+    color: white;
+    display: flex;
+    width: 250px;
+    font-size: 12px;
+    padding-left: 70px;
+}
+ 
+.arn2{
+    color: white;
+    display: flex;
+    width: 220px;
+    font-size: 12px;
+    padding-left: 70px;
+}
+
+.arn3{
+    color: white;
+    display: flex;
+    width: 250px;
+    font-size: 12px;
+    padding-left: 70px;
+}
+
+
+.oxi{
+    color: #e20613;
+    padding-right: 30px;
+}
+
+.arnm1{
+    color: white;
+    display: flex;
+    width: 250px;
+    font-size: 12px;
+    padding-left: 60px;
+}
+
+.arnm2{
+    color: white;
+    display: flex;
+    width: 250px;
+    font-size: 12px;
+    padding-left: 60px;
+}
+
+.arnm3{
+    color: white;
+    display: flex;
+    width: 250px;
+    font-size: 12px;
+    padding-left: 60px;
+}
+
+.arnm4{
+    color: white;
+    display: flex;
+    width: 250px;
+    font-size: 12px;
+    padding-left: 60px;
+}
+
+
+.hijo7{
+    color: white;
+    display: flex;
+ 
+}
+
+ 
+ .niño{
+    padding-top: 180px;
+   padding-left: 130px;
+   width: 30px;
+   
+ }
+
+.hijo7-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 50px;
+   
+}
+
+.hijo7-2{
+    font-family: century gothic;
+    font-size: 20px;
+    padding-left: 30px;
+    width: 250px;
+    padding-top: 145px;
+ 
+}
+
+.hijo7-3{
+    font-family: century gothic;
+    font-size: 14px;
+    width: 540px;
+ 
+    
+}
+
+.hijo7-4{
+    font-family: century gothic;
+    font-size: 14px;
+    width: 540px;
+  
+}
+
+.hijo7-5{
+    font-family: century gothic;
+    font-size: 14px;
+    width: 540px;   
+}
+
+span {
+    color: #ffd100;
+  
+}
+
+.hijo7-6{
+    font-family: century gothic;
+    font-size: 14px;
+    width: 540px;
+  
+    
+}
+
+.est{
+
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.hijo7-7{
+    border: 2px solid #22a75d;
+    border-radius: 25px;
+    width: 147px;
+    height: 30px;
+    text-align: center;
+    padding-top: 15px;
+   
+}
+
+
+.herm {
+  
+    width: 580px;
+    padding-left:40px;
+    padding-top: 150px;
+    height: 800px;
+}
+
+
+.fondo{
+    width: 1340px;
+    height: 1000px;
+    background-image: url(imagen/logo18.png);
+    background-size: contain;
+    background-repeat: no-repeat; 
+}
+
+.fondo2{
+    color: white;
+    text-align: center;
+    padding-top: 300px;
+    font-size: 24px;
+   
+   
+   
+}
+
+
+ 
+ .hijo10-1{
+     padding-left: 160px;
+     padding-top: 20px;
+    
+     
+ 
+ }
+ 
+ 
+ .hijo10-2{
+    border: 1px solid white;
+    border-radius: 20px;
+    background: white;
+    color: black;
+    width: 350px;
+  
+    
+  
+ }
+ 
+ 
+ .fff{
+     padding-top: 60px;
+     padding-left: 150px;
+ }
+ 
+ 
+ .abuelo{
+     border: 1px solid gray;
+     border-radius: 100px 100px 100px 30px;
+     width: 60px;
+     height: 40px;
+     padding-top: 20px;
+     padding-left: 5px;
+     text-align: center;
+     background: #22a75d;
+ }
+ 
+ 
+ .abuelo1{
+     font-family: century gothic;
+     font-size: 16px;
+     padding-left: 120px;
+ }
+ 
+ .abuelo2{
+     font-family: century gothic;
+     font-size: 10px;
+     width: 200px;
+     padding-left: 110px;
+     margin-top: -10px;
+ }
+ 
+ .abuelo3{
+     font-family: century gothic;
+     font-size: 13px;
+     padding-top: 20px;
+     padding-left: 95px;
+ }
+ 
+ .abuelo4{
+     font-family: century gothic;
+     font-size: 12px;
+     padding-left: 120px;
+ }
+ 
+ .abuelo5{
+      font-family: century gothic;
+     font-size: 12px;
+     padding-left: 110px;
+     padding-bottom: 50px;
+ }
+ 
+ 
+ 
+ 
+ .hijo11{
+   
+     padding-left: 530px;
+     margin-top: -330px;
+    
+ }
+ 
+
+ 
+ 
+ .hijo11-2{
+    border: 1px solid white;
+    border-radius: 20px;
+    background: white;
+    color: black;
+    width: 350px;
+   
+ }
+ 
+ 
+ .mmm{
+     padding-top: 60px;
+     padding-left: 150px;
+  
+ }
+ 
+ 
+ .abuela{
+     border: 1px solid gray;
+     border-radius: 100px 100px 100px 30px;
+     width: 60px;
+     height: 40px;
+     padding-top: 20px;
+     padding-left: 5px;
+     text-align: center;
+     background: #2278d4;
+ }
+ 
+ 
+ .abuela1{
+    font-family: century gothic;
+    font-size: 16px;
+    padding-left: 120px;
+ }
+ 
+ .abuela2{
+    font-family: century gothic;
+    font-size: 10px;
+    width: 200px;
+    padding-left: 110px;
+    margin-top: -10px;
+ }
+ 
+ .abuela3{
+    font-family: century gothic;
+     font-size: 13px;
+     padding-top: 20px;
+     padding-left: 95px;
+ }
+ 
+ .abuela4{
+    font-family: century gothic;
+    font-size: 12px;
+    padding-left: 120px;
+ }
+ 
+ .abuela5{
+    font-family: century gothic;
+    font-size: 12px;
+    padding-left: 110px;
+    padding-bottom: 50px;
+ }
+ 
+ 
+ .hijo12{
+     padding-left: 900px;
+     margin-top: -400px;
+    
+ }
+
+ 
+ 
+ .hijo12-2{
+     border: 1px solid white;
+     border-radius: 20px;
+     background: white;
+     color: black;
+     width: 350px;
+ }
+ 
+ 
+ .www{
+     padding-top: 60px;
+     padding-left: 150px;
+ }
+ 
+ 
+ .abuelita{
+     border: 1px solid gray;
+     border-radius: 100px 100px 100px 30px;
+     width: 60px;
+     height: 40px;
+     padding-top: 20px;
+     padding-left: 5px;
+     text-align: center;
+     background: #ffd100;
+ }
+ 
+ 
+ .abuelita1{
+    font-family: century gothic;
+    font-size: 16px;
+    padding-left: 120px;
+ }
+ 
+ .abuelita2{
+    font-family: century gothic;
+    font-size: 10px;
+    width: 200px;
+    padding-left: 110px;
+    margin-top: -10px;
+ }
+ 
+ .abuelita3{
+    font-family: century gothic;
+    font-size: 13px;
+    padding-top: 20px;
+    padding-left: 95px;
+ }
+ 
+ .abuelita4{
+    font-family: century gothic;
+    font-size: 12px;
+    padding-left: 120px;
+ }
+ 
+ .abuelita5{
+    font-family: century gothic;
+    font-size: 12px;
+    padding-left: 110px;
+    padding-bottom: 50px;
+ }
+
+
+ .superior{
+    padding-left: 160px;
+ }
+ 
+ 
+ 
+ .hijo13-10{
+     width: 320px;
+     height: 270px;
+     background-image: url(../imagen/logo30.png);
+     background-size: contain;
+     background-repeat: no-repeat; 
+     
+ }
+ 
+ .lll{
+     color: white;
+     text-align: center;
+     font-size: 25px;
+     margin-top: -50px;
+  }
+ 
+  .tav{
+     display: flex;
+  }
+  
+ 
+  .ñññ{
+     padding-left: 30px;
+     padding-top: 20px;
+  }
+ 
+  .kkk{
+     color: white;
+     font-size: 14px;
+     width: 180px;
+     padding-left: 80px;
+     padding-top: 20px;
+  }
+ 
+ 
+
+  
+ 
+  .vvv{
+     padding-top: 70px;
+     padding-left: 30px;
+     width: 60px;
+    
+  }
+ 
+ 
+  .hijo14{
+    margin-top: -230px;
+    padding-left: 335px;
+  }
+  
+  
+  .hijo14-10{
+      width: 320px;
+      height: 270px;
+      background-image: url(../imagen/logo30.png);
+      background-size: contain;
+      background-repeat: no-repeat; 
+      display: flex;
+     
+      
+  }
+  
+ 
+  
+   .zap{
+     display: flex;
+   }
+   
+  
+   .ñññ1{
+      padding-left: 30px;
+      padding-top: 20px;
+   }
+  
+   .kkk1{
+      color: white;
+      font-size: 14px;
+      width: 180px;
+      padding-left: 80px;
+      padding-top: 20px;
+   }
+  
+  
+ 
+  
+   
+  
+   .vvv1{
+      padding-top: 40px;
+      padding-left: 35px;
+      width: 60px;
+     
+   }
+ 
+ 
+ 
+   .hijo15{
+    margin-top: -300px;
+    padding-left: 667px;
+  }
+  
+  
+  .hijo15-10{
+    width: 320px;
+    height: 270px;
+    background-image: url(../imagen/logo30.png);
+    background-size: contain;
+    background-repeat: no-repeat; 
+    display: flex;
+      
+  }
+  
+ 
+  
+   .paz{
+     display: flex;
+   }
+   
+  
+   .ñññ2{
+      padding-left: 30px;
+      padding-top: 20px;
+   }
+  
+   .kkk2{
+      color: white;
+      font-size: 14px;
+      width: 180px;
+      padding-left: 80px;
+      padding-top: 20px;
+   }
+
+
+   .hijo16-1{
+    display: flex;
+    gap: 30px;
+    padding-top: 120px;
+    padding-left: 320px;
+    
+    }
+
+    .jim1{
+        
+        color: white;
+    }
+
+    
+
+    
+.hijo17{
+    display: flex;
+    padding-top: 600px;
+    padding-bottom: 100px;
+    justify-content: center;
+    gap: 50px;
+   
+  }
+
+  
+  
+  .iii{
+    width: 280px;
+    padding-left: 50px;
+  }
+
+  .hijo18{
+    width: 1340px;
+    height: 800px;
+    background-image: url(../imagen/logo37.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: -400px;
+   
+   
+  }
+
+  .contenedor{
+    display: none;
+  }
+
+    
+
+
+
+    
+    
+  
+  @media only screen and (max-width:400px){
+
+    .padre{
+        display: none;
+     
+        
+    }
+
+    .contenedor{
+        width: 98%;
+        border: 1px solid red;
+        height: 7100px;
+        background: black;
+        display: block;
+       
+    
+       
+    }
+    
+    .caja{
+    
+        padding-top: 100px;
+    }
+    
+    .logomenu{
+        padding-left: 20px;
+    }
+    
+    
+    
+    .contenido{
+       text-align: center;
+       font-size: 10px;
+       width: 300px;
+       padding-left: 50px;
+       font-size: 20px;
+       display: none;
+       
+      
+    }
+    .menu{
+        padding-left: 300px;
+        margin-top: -100px;
+        width: 50px;
+        
+    }
+    
+    .menu1{
+        color: white;
+        text-decoration: none;
+    }
+    .dropdown:hover .contenido{
+        display: block;
+        display: flex;
+        flex-direction: column;
+        
+       
+    }
+    
+    .caja1{
+        color: white;
+    }
+    
+    .bloque{
+        font-size: 12px;
+        color: #2b3087;
+        padding-left: 40px;
+        padding-top: 40px;   
+    }
+    
+    .bloque1{
+        font-size: 25px;
+        width: 335px;
+        padding-left: 40px;
+        
+    }
+    .bloque2{
+        font-size: 16px;
+        width: 300px;
+        padding-left: 40px;
+        color: rgba(255, 255, 255, 0.555);
+    }
+    
+    .bloque3{
+        padding-left: 40px;
+       
+    }
+    
+    .bloque3-1{
+        border: 1px solid #22a75d;
+        border-radius: 25px;
+        width: 120px;
+        height: 30px;
+        text-align: center;
+        padding-top: 15px;
+        padding-left: 10px;
+        background: #22a75d ;
+    }
+    
+    .enlace{
+        color: white;
+        text-decoration: none;
+    }
+    
+    
+    
+    .bloque4{
+        position: absolute;
+        top: 700px;
+    }
+    
+    .part{
+        color: rgba(255, 255, 255, 0.603);
+        border: 1px solid  white;
+        border-radius: 25px;
+        height: 420px;
+        position: relative;
+        top: 600px;
+        width: 340px;
+        left: 20px;
+    }
+    
+    .parte1{
+        padding-top: 60px;
+        padding-left: 50px;
+    }
+    
+    .parte1-1{
+        border: 1px solid gray;
+        border-radius: 100px 100px 100px 100px;
+         width: 60px;
+        height: 40px;
+        padding-top: 20px;
+        text-align: center;
+        background: #22a75d;
+    }
+    
+    .parte2{
+        font-family: century gothic;
+         font-size: 20px;
+         width: 265px;
+         padding-left: 50px;
+         color: white;
+    }
+    
+    .tex{
+        color: #22a75d;
+        padding-left: 10PX;
+    }
+    
+    .parte3{
+        font-family: century gothic;
+         font-size: 16px;
+         width: 279px;
+         padding-left: 50px;
+    
+    }
+    
+    .link1{
+        color: #22a75d;
+        font-family: century gothic;
+        font-size: 16px;
+        padding-left: 50px;
+    }
+    
+    .img1{
+        width: 13px;
+       
+    }
+    
+    .part1{
+        color: rgba(255, 255, 255, 0.616);
+        border: 1px solid  white;
+        border-radius: 25px;
+        height: 530px;
+        position: relative;
+        top: 620px;
+        width: 340px;
+        left: 20px;
+    }
+    
+    .parte1{
+     padding-top: 60px;
+     padding-left: 50px;
+    }
+    
+    .parte2-1{
+     border: 1px solid gray;
+     border-radius: 100px 100px 100px 100px;
+     width: 60px;
+     height: 40px;
+     padding-top: 20px;
+     text-align: center;
+     background: #2278d4;
+    }
+    
+    .parte2{
+     font-family: century gothic;
+      font-size: 20px;
+      width: 265px;
+      padding-left: 50px;
+    }
+    
+    .tex1{
+     color: #2278d4;
+     padding-left: 10PX;
+    }
+    
+    .parte3-1{
+     font-family: century gothic;
+      font-size: 16px;
+      width: 279px;
+      padding-left: 50px;
+    
+    }
+    
+    .link2{
+     color:#2278d4 ;
+     font-family: century gothic;
+     font-size: 16px;
+     padding-left: 50px;
+    }
+    
+    .img1{
+     width: 13px;
+    
+    }
+    
+    .caja3{
+        padding-top: 650px;
+    }
+    
+    .dj{
+        width: 350px;
+    }
+    
+    .hijito{
+        color:black;
+        background: white;
+        border: 1px solid white;
+        border-radius: 0px 200px 0px 0px ;
+        height: 500px;
+        padding-top: 150px;
+        width: 100%;
+        
+    }
+    
+    
+    
+    .hijo4-1{
+        font-family: century gothic;
+        font-size: 100%;
+        padding-left: 1%;
+        text-align: center;
+        width: 40%;
+    
+    
+    }
+    
+    .hijo4-2{
+        font-family: century gothic;
+        font-size: 70%;
+        padding-left: 1%;
+        width: 50%;
+        
+    }
+    
+    
+    .hijo4-3{
+        font-family: century gothic;
+        font-size: 88%;
+        padding-left: 5%;
+        width: 45%;
+        
+       
+    }
+    
+    .caja5{
+        display: flex;
+        color: white;
+        padding-top: 70px;   
+    }
+    
+    
+    
+    .caja5-2{
+        padding-top: 50px;
+    }
+    
+    .caja5-3{
+        padding-top: 60px;
+        margin-left: -14px;   
+    }
+    
+    .caja6-1{
+        color: white;
+        padding-left: 30px;
+    }
+    
+    small{
+        color: #22a75d;
+    }
+    
+    
+    .caja7{
+        display: flex;
+        
+        color: white;   
+    }
+    
+    
+    
+    .caja7-2{
+        padding-top: 50px;
+    }
+    
+    .caja7-3{
+        padding-top: 60px;
+        margin-left: -14px;   
+    }
+    
+    .caja8-1{
+        color: white;
+        padding-left: 30px;
+        display: flex;
+        gap: 5px;
+      
+    }
+    
+    .tex8-1{
+        color: blue;
+     
+    }
+    
+    
+    
+    .caja9{
+        display: flex;
+        
+        color: white;   
+    }
+    
+    
+    
+    .caja9-2{
+        padding-top: 50px;
+    }
+    
+    .caja9-3{
+        padding-top: 60px;
+        margin-left: -14px;   
+    }
+    
+    
+    
+    .caja10-1{
+        color: white;
+        padding-left: 30px;
+        display: flex;
+        gap: 5px;
+    }
+    
+    .tex10-1{
+        color: yellow;
+    }
+    
+    
+    .caja11{
+        display: flex;
+        color: white;   
+    }
+    
+    
+    
+    .caja11-2{
+        padding-top: 50px;
+    }
+    
+    .caja11-3{
+        padding-top: 60px;
+        margin-left: -14px;   
+    }
+    
+    .caja12-1{
+        color: white;
+        padding-left: 30px;
+        display: flex;
+        gap: 5px;
+    }
+    
+    .tex12-1{
+        color: red;
+    }
+    
+    small{
+        color: #22a75d;
+    }
+    
+    .logo50{
+        width: 80%;
+        padding-left: 50px;
+        padding-top: 40px;
+    }
+    .logo51{
+        width: 20%;
+        padding-left: 20px;
+        padding-top: 40px;
+    }
+    
+    .text51{
+        color: white;
+        font-size: 36px;
+        padding-left: 20px;
+    }
+    .text52{
+        color: rgba(255, 255, 255, 0.664);
+        font-size: 17px;
+        padding-left: 20px;
+        width: 335px;  
+    }
+    
+    span{
+        color:rgba(255, 255, 255, 0.493)
+    }
+    
+    .text53{
+        color: #22a75d;
+        font-size: 17px;
+        padding-left: 20px;
+        text-decoration: underline  dotted #22a75d
+    }
+    
+    .unidad2{
+        background-image: url(../imagenes/logo53.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 375px;
+        height: 768px;
+    }
+    .unidad3{
+        background-image: url(../imagenes/logo54.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 260px;
+        height: 445px; 
+        padding-top: 60px;
+        padding-left: 80px;
+      
+       
+    }
+    .unidad2-2{
+        color: white;
+        width: 253px;
+        font-size: 36px;
+        padding-left: 50px;
+    }
+    
+    .unidad2-1{
+        padding-top: 90px;
+        padding-left: 20px;
+    }
+    
+    .unidad3-1{
+        border: 1px solid gray;
+         border-radius: 100px 100px 100px 30px;
+         width: 60px;
+         height: 40px;
+         padding-top: 20px;
+         padding-left:5px;
+         text-align: center;
+         background: #2278d4;
+    }
+    .unidad3-1-1{
+        padding-left: 30px;
+    }
+    
+    
+    
+    .unidad3-2{
+        font-family: century gothic;
+        font-size: 16px;
+        
+       
+     }
+     
+     .unidad3-3{
+        font-family: century gothic;
+        font-size: 10px;
+        width: 200px;
+        margin-top: -10px;
+     }
+     
+     .unidad3-4{
+        font-family: century gothic;
+         font-size: 13px;
+         padding-top: 20px;
+         
+     }
+     
+     .unidad3-5{
+        font-family: century gothic;
+        font-size: 12px;
+        
+     }
+     
+     .unidad3-6{
+        font-family: century gothic;
+        font-size: 12px;
+        padding-bottom: 50px;
+     }
+     .logo55{
+        padding-left: 60px;
+        padding-top: 120px;
+     }
+    
+     .celda{
+        color: white;
+        text-align: center;
+        font-size: 36px;
+       
+       
+     }
+    
+    .celda1{
+        padding-left: 25px;
+        
+    }
+     
+     .celda1-1{
+        width: 320px;
+        background-image: url(../imagenes/logo30-7.png);
+        background-size: contain;
+        background-repeat: no-repeat; 
+       ;
+        
+    }
+    
+     .logo25{
+        padding-left: 30px;
+        padding-top: 30px;
+     }
+    
+     .celda1-4{
+        color: white;
+        font-size: 20px;
+        width: 250px;
+        padding-left: 40px;
+      
+      
+        
+     }
+    
+    
+     .logo26{
+        
+        padding-left: 120px;
+        width: 60px;
+       
+     }
+    
+    
+    
+    
+     .celda2{
+        padding-left: 25px;
+        margin-top: -35px;
+        
+    }
+     
+     .celda2-1{
+        width: 320px;
+        background-image: url(../imagenes/logo30-7.png);
+        background-size: contain;
+        background-repeat: no-repeat; 
+       ;
+        
+    }
+    
+     .logo31{
+        padding-left: 30px;
+        padding-top: 30px;
+     }
+    
+     .celda2-4{
+        color: white;
+        font-size: 20px;
+        width: 263px;
+        padding-left: 40px;
+      
+     }
+    
+    
+     .logo28{
+        
+        padding-left: 120px;
+        width: 60px;
+       
+     }
+    
+    
+    
+     .celda3{
+        padding-left: 25px;
+        margin-top: -35px;
+        
+    }
+     
+     .celda3-1{
+        width: 320px;
+        height: 200px;
+        background-image: url(../imagenes/logo30-7.png);
+        background-size: contain;
+        background-repeat: no-repeat; 
+       ;
+        
+    }
+    
+     .logo32{
+        padding-left: 30px;
+        padding-top: 30px;
+     }
+    
+     .celda3-4{
+        color: white;
+        font-size: 20px;
+        width: 263px;
+        padding-left: 40px;
+      
+     }
+    
+     .celda4{
+        padding-top: 50px;
+     }
+    
+     .celda4-1{
+        padding-left: 85px;
+        
+     }
+    
+     .celda4-2{
+        padding-left: 10px;
+     }
+    
+     .celda4-3{
+        padding-left: 70px;
+     }
+    
+      
+  
+    
+  }
+
+    
